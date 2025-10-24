@@ -1,0 +1,10 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.o
+*.obj
+*.exe
+*.log
+.vscode/
+.DS_Store
